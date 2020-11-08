@@ -1,18 +1,18 @@
 {
-    "name": "paylot/paylot-php",
-    "description": "A PHP Wrapper for Paylot API",
+    "name": "ikechukwuokalia/paylot-php",
+    "description": "[A custom version of paylot/paylot-php by @dozieogbo] A PHP Wrapper for Paylot API",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Chidozie Ogbo",
-            "email": "dosky.ogbo91@gmail.com"
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
         }
     ],
-	"homepage": "https://github.com/paylot/paylot-php",
+	"homepage": "https://github.com/ikechukwuokalia/paylot-php",
     "require": {
 		"php": ">=5.3.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7"
     },
     "autoload": {
         "psr-4": {
